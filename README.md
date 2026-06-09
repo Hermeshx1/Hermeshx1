@@ -4,7 +4,7 @@ Security Engineer & Full-Stack Developer based in Singapore.
 
 ### What I do
 - Build internal security tooling & automation
-- Full-stack development with secure architecture
+- Full-stack development with focus on secure architecture
 - Open source contributor
 
 ### Tech
